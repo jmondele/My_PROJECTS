@@ -23,7 +23,7 @@ This basic Java program calculates the **area** and **circumference** of a circl
 ---
 
 ## ⚙️ How to Run
-1. Open `non.java` in your IDE (Eclipse, IntelliJ, etc.)
+1. Open `[non.java](./non.java)'in your IDE (Eclipse, IntelliJ, etc.)
 2. Compile and run the program
 3. Enter a radius value when prompted
 4. View calculated results for area and circumference
