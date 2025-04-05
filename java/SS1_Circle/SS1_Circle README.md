@@ -19,12 +19,11 @@ This basic Java program calculates the **area** and **circumference** of a circl
 
 <img src="img/Ss1.png" alt="Circle Java Program Screenshot" width="500"/>
 
-> Save a screenshot of your console output and name it `screenshot.png` inside this folder.
 
 ---
 
 ## ⚙️ How to Run
-1. Open `Circle.java` in your IDE (Eclipse, IntelliJ, etc.)
+1. Open `non.java` in your IDE (Eclipse, IntelliJ, etc.)
 2. Compile and run the program
 3. Enter a radius value when prompted
 4. View calculated results for area and circumference
