@@ -7,7 +7,7 @@
 
 *Work Links:*
 
-1. [JAVA](projects/java/java%20README.md "My Java files")
+1. [JAVA](Projects/java/java%20README.md "My Java files")
 
     -    Java PROJECTS
     -    Build and Run Java Programs
