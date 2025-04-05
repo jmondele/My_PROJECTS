@@ -24,9 +24,9 @@ This repository includes a series of Java projects that demonstrate core program
 - [SS7 - Measurement Conversion](./SS7_MeasurementConversion/SS7_MeasurementConversion%20README.md)  
 - [SS8 - Distance Calculator (GUI)](./SS8_DistanceCalculator_GUI/SS8_DistanceCalculator_GUI%20README.md)  
 - [SS9 - Multi-Selection List (GUI)](./SS9_SelectionList_GUI/SS9_SelectionList_GUI%20README.md)  
-- [SS10 - Travel Time Calculator](./SS10_TravelTime)  
-- [SS11 - Product Class (OOP)](./SS11_ProductClass)  
-- [SS12 - Book Inherits Product (OOP)](./SS12_BookProductInheritance)  
+- [SS10 - Travel Time Calculator](./SS10_TravelTime/SS10_TravelTime%20README.md)  
+- [SS11 - Product Class (OOP)](./SS11_ProductClass/SS11_ProductClass%20README.md)  
+- [SS12 - Book Inherits Product (OOP)](./SS12_BookProductInheritance/SS12_BookProductInheritance%20README.md)  
 
 ## 🔧 Technologies Used
 
