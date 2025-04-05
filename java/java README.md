@@ -16,7 +16,7 @@ This repository includes a series of Java projects that demonstrate core program
 ## 🧾 Project List
 
 - [SS1 - Non-OOP Circle](./SS1_Circle/SS1_Circle%20README.md)  
-- [SS2 - Multiple Number Checker](./SS2_MultipleNumber)  
+- [SS2 - Multiple Number Checker](./SS2_MultipleNumber/SS2_MultipleNumber%20README.md)  
 - [SS3 - Nested Structures Logic](./SS3_NestedStructures)  
 - [SS4 - Time Conversion Tool](./SS4_TimeConversion)  
 - [SS5 - Even or Odd Checker (GUI)](./SS5_EvenOdd_GUI)  
